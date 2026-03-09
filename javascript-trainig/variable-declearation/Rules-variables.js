@@ -31,3 +31,4 @@ let carNumber = 2233;
 // regular variable /method /functions : let empName = "Bharath"; //camel-casing ==> starts with small letter and every next word starts with capital letter
 // constant values : const PI = 3.14; //all-upper-case with underscore
 // class names : class EmployeeDetails {} //Pascal-casing  ==> every word starts with capital letter
+
