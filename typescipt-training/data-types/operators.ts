@@ -14,14 +14,15 @@
 // ++ increament (add 1 to the variable)
 // -- decreament (substract 1 from variable)
 
-let a :number=10;
-let b :number=20;
+// let a :number=10;
+// let b :number=20;
 
-console.log("Addition :"+(a+b));
-console.log("Subtraction :"+(a-b));
-console.log("Multiplication :"+(b*a));
-console.log("Division :"+(b/a));
-console.log("Modulus :"+(b%a));
-a++;
-console.log("Increment :"+          a);
+// console.log("Addition :"+(a+b));
+// console.log("Subtraction :"+(a-b));
+// console.log("Multiplication :"+(b*a));
+// console.log("Division :"+(b/a));
+// console.log("Modulus :"+(b%a));
+// a++;
+// console.log("Increment :"+          a);
 
+//Arthmatic Operator
