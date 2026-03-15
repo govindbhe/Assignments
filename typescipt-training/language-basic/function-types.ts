@@ -126,3 +126,11 @@ for(let num of numbers){
     console.log("sum"+sum);
 }
 sumofNumber(1,2,3);
+
+
+//Named Function-
+
+function greet1(name:string):string{
+
+    return"Bharat";
+}
